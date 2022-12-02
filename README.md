@@ -7,3 +7,4 @@ Once you clone the repository, you can run the project by running Microsoft Edge
 Faisal Methta
 Implemented all arithmatic functions
 apply styling
+#testing 1 2 3...

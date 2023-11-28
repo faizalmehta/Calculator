@@ -4,8 +4,8 @@ Javascript calculator
 #Instructions to grade
 Once you clone the repository, you can run the project by running Microsoft Edge index.html. HTML testing was done using the W3C HTML validator, other testing was done visually.
 #Contributions
-Faisal Methta
-Implemented all arithmatic functions
+Faizal Mehta
+Implemented all arithmetic functions
 apply styling
 #testing 1 2 3 4...
 #testing 123...
